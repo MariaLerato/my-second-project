@@ -4,11 +4,12 @@ import './index.css'
 
 import reportWebVitals from './reportWebVitals'
 import Menu from './components/menu'
+import { HashRouter } from 'react-router-dom'
 
 ReactDOM.render(
-  <React.StrictMode>
+  <HashRouter>
     <Menu />
-  </React.StrictMode>,
+  </HashRouter>,
   document.getElementById('root')
 )
 

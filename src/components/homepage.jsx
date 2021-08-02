@@ -14,23 +14,19 @@ const Home = () => {
       <div className='form'>
         <fieldset>
           <h2>Register</h2>
-            <label>
-              Name:
-              <input type='text' placeholder='enter your name' />
-            </label>
-            <label>
-              Surname: <input type='text' placeholder='enter your surname' />
-            </label>
-            <label>
-              Password: <input type='password' />
-            </label>
-            
-              <button type='Submit'>Submit Details</button>
-            
-            
-              <input type='Reset' value='Reset'></input>
-            
-          </fieldset>
+          <label>
+            Name:
+            <input type='text' placeholder='enter your name' />
+          </label>
+          <label>
+            Surname: <input type='text' placeholder='enter your surname' />
+          </label>
+          <label>
+            Password: <input type='password' />
+          </label>
+          <button type='Submit'>Submit Details</button>
+          <input type='Reset' value='Reset' />
+        </fieldset>
       </div>
     </div>
   )
