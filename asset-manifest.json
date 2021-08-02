@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-second-project/static/css/main.a3f81ab2.chunk.css",
+    "main.js": "/my-second-project/static/js/main.8507529a.chunk.js",
+    "main.js.map": "/my-second-project/static/js/main.8507529a.chunk.js.map",
+    "runtime-main.js": "/my-second-project/static/js/runtime-main.c6f49194.js",
+    "runtime-main.js.map": "/my-second-project/static/js/runtime-main.c6f49194.js.map",
+    "static/css/2.3674e937.chunk.css": "/my-second-project/static/css/2.3674e937.chunk.css",
+    "static/js/2.c342756c.chunk.js": "/my-second-project/static/js/2.c342756c.chunk.js",
+    "static/js/2.c342756c.chunk.js.map": "/my-second-project/static/js/2.c342756c.chunk.js.map",
+    "static/js/3.721c1a52.chunk.js": "/my-second-project/static/js/3.721c1a52.chunk.js",
+    "static/js/3.721c1a52.chunk.js.map": "/my-second-project/static/js/3.721c1a52.chunk.js.map",
+    "index.html": "/my-second-project/index.html",
+    "static/css/2.3674e937.chunk.css.map": "/my-second-project/static/css/2.3674e937.chunk.css.map",
+    "static/css/main.a3f81ab2.chunk.css.map": "/my-second-project/static/css/main.a3f81ab2.chunk.css.map",
+    "static/js/2.c342756c.chunk.js.LICENSE.txt": "/my-second-project/static/js/2.c342756c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/my-second-project/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/stylesheet.css": "/my-second-project/static/media/lake-1581879_1920.6b53cbf5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6f49194.js",
+    "static/css/2.3674e937.chunk.css",
+    "static/js/2.c342756c.chunk.js",
+    "static/css/main.a3f81ab2.chunk.css",
+    "static/js/main.8507529a.chunk.js"
+  ]
+}
