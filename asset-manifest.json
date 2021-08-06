@@ -1,28 +1,22 @@
 {
   "files": {
-    "main.css": "/my-second-project/static/css/main.fba7ea65.chunk.css",
-    "main.js": "/my-second-project/static/js/main.2b078793.chunk.js",
-    "main.js.map": "/my-second-project/static/js/main.2b078793.chunk.js.map",
-    "runtime-main.js": "/my-second-project/static/js/runtime-main.c6f49194.js",
-    "runtime-main.js.map": "/my-second-project/static/js/runtime-main.c6f49194.js.map",
-    "static/css/2.3674e937.chunk.css": "/my-second-project/static/css/2.3674e937.chunk.css",
-    "static/js/2.c342756c.chunk.js": "/my-second-project/static/js/2.c342756c.chunk.js",
-    "static/js/2.c342756c.chunk.js.map": "/my-second-project/static/js/2.c342756c.chunk.js.map",
-    "static/js/3.721c1a52.chunk.js": "/my-second-project/static/js/3.721c1a52.chunk.js",
-    "static/js/3.721c1a52.chunk.js.map": "/my-second-project/static/js/3.721c1a52.chunk.js.map",
+    "main.css": "/my-second-project/static/css/main.8897e541.chunk.css",
+    "main.js": "/my-second-project/static/js/main.344e15f2.chunk.js",
+    "main.js.map": "/my-second-project/static/js/main.344e15f2.chunk.js.map",
+    "runtime-main.js": "/my-second-project/static/js/runtime-main.785b4e89.js",
+    "runtime-main.js.map": "/my-second-project/static/js/runtime-main.785b4e89.js.map",
+    "static/js/2.d66947b0.chunk.js": "/my-second-project/static/js/2.d66947b0.chunk.js",
+    "static/js/2.d66947b0.chunk.js.map": "/my-second-project/static/js/2.d66947b0.chunk.js.map",
+    "static/js/3.d0c94e98.chunk.js": "/my-second-project/static/js/3.d0c94e98.chunk.js",
+    "static/js/3.d0c94e98.chunk.js.map": "/my-second-project/static/js/3.d0c94e98.chunk.js.map",
     "index.html": "/my-second-project/index.html",
-    "static/css/2.3674e937.chunk.css.map": "/my-second-project/static/css/2.3674e937.chunk.css.map",
-    "static/css/main.fba7ea65.chunk.css.map": "/my-second-project/static/css/main.fba7ea65.chunk.css.map",
-    "static/js/2.c342756c.chunk.js.LICENSE.txt": "/my-second-project/static/js/2.c342756c.chunk.js.LICENSE.txt",
-    "static/media/boring-office-work-cartoon-vector-10571941.3ec2ddb4.jpg": "/my-second-project/static/media/boring-office-work-cartoon-vector-10571941.3ec2ddb4.jpg",
-    "static/media/font-awesome.min.css": "/my-second-project/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/stylesheet.css": "/my-second-project/static/media/me.6206be4f.jpg"
+    "static/css/main.8897e541.chunk.css.map": "/my-second-project/static/css/main.8897e541.chunk.css.map",
+    "static/js/2.d66947b0.chunk.js.LICENSE.txt": "/my-second-project/static/js/2.d66947b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6f49194.js",
-    "static/css/2.3674e937.chunk.css",
-    "static/js/2.c342756c.chunk.js",
-    "static/css/main.fba7ea65.chunk.css",
-    "static/js/main.2b078793.chunk.js"
+    "static/js/runtime-main.785b4e89.js",
+    "static/js/2.d66947b0.chunk.js",
+    "static/css/main.8897e541.chunk.css",
+    "static/js/main.344e15f2.chunk.js"
   ]
 }
